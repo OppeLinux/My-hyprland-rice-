@@ -1,11 +1,10 @@
-
-🪟 WM / Compositor - Hyprland
-📊 Status Bar - Waybar
->_ Terminal - Alacritty
-🔳 Application Launcher - Rofi
-</> Shell - Fish
-🗃️ File Manager - Nemo
-💡 Style - cappuccin
+> 🪟 **WM / Compositor** — Hyprland <br>
+> 📊 **Status Bar** — Waybar <br>
+> 💻 **Terminal** — Alacritty <br>
+> 🔍 **Application Launcher** — Rofi <br>
+> 🐚 **Shell** — Fish <br>
+> 📂 **File Manager** — Nemo <br>
+> 🎨 **Style** — Catppuccin
 
 
 🌐Installation
