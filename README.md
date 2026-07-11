@@ -1,3 +1,4 @@
+
 🪟 WM / Compositor - Hyprland
 📊 Status Bar - Waybar
 >_ Terminal - Alacritty
